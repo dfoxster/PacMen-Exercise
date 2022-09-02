@@ -17,3 +17,5 @@ This project showcases the use of Javascript to manipulate HTML DOM elements.   
 ## License Information
 
 This PacMen project is available under the MIT License.  See the LICENSE file for more info.
+
+<a href="https://dfoxster.github.io/PacMen-Exercise/site/index.html">View Demo</a>
